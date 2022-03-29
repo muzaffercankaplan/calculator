@@ -1,0 +1,39 @@
+body {
+  background-color: darkolivegreen;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+}
+
+main {
+  background-color: brown;
+  width: 200px;
+  margin: auto;
+  padding: 5px;
+}
+
+div {
+  margin: 10px;
+}
+
+input {
+  height: 20px;
+  text-align: right;
+  width: 165px;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 1.5em;
+}
+
+button:hover {
+  box-shadow: 3px 3px 5px 3px blue;
+  color: gold;
+}
